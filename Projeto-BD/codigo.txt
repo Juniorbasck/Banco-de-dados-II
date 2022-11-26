@@ -1,0 +1,24 @@
+INSERT INTO PROFESSOR VALUES ('8756', 'joão', 'vilar', '09/09/2002');
+INSERT INTO PROFESSOR VALUES ('7567', 'tiago', 'vilar', '09/02/2005');
+INSERT INTO PROFESSOR VALUES ('8856', 'marcia', 'vilar', '09/09/2010');
+INSERT INTO PROFESSOR VALUES ('8876', 'lula', 'vilar', '09/03/2000');
+INSERT INTO PROFESSOR VALUES ('8936', 'junior', 'vilar', '05/02/2015');
+							 
+							 
+INSERT INTO CURSO VALUES ('9343', 'Matematica', '2', '09/02/2001');
+INSERT INTO CURSO VALUES ('5855', 'direito', '4', '09/08/2002');
+INSERT INTO CURSO VALUES ('2222', 'historia', '8', '09/04/2010');
+INSERT INTO CURSO VALUES ('3333', 'medicina', '5', '09/03/2000');
+INSERT INTO CURSO VALUES ('4444', 'engenhria', '12', '005/09/2015');
+
+INSERT INTO ALUNO VALUES ('XXXX', 'fernando', '2', '09/02/2001');
+INSERT INTO ALUNO VALUES ('OUUU', 'tiago', '4', '09/08/2002');
+INSERT INTO ALUNO VALUES ('YYYY', 'raissa','4', '09/04/2010');
+INSERT INTO ALUNO VALUES ('ERER', 'emally', '5', '09/03/2000');
+INSERT INTO ALUNO VALUES ('TTTT', 'leticia', '12', '005/09/2015');
+
+INSERT INTO professorlecionaAluno VALUES ('XXXX', '2001', '2', '09/02/2002);
+INSERT INTO professorlecionaAluno VALUES ('OUUU', '7567', '4', '09/08/2005');				    		    	('YYYY', 'raissa', '09/04/2010');
+INSERT INTO professorlecionaAluno VALUES (''YYYY', '8856', '5', '09/03/2010');
+INSERT INTO professorlecionaAluno VALUES ('ERER', '8876', '5', '09/03/2000');
+INSERT INTO professorlecionaAluno VALUES ('TTTT', '8936', '5', '09/03/2015');
